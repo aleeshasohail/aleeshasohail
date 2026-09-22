@@ -1,3 +1,3 @@
-Hi! I'm studying Computer Science at McMaster University, minoring in Statistics. I'm open to Summer 2027 internships in Software, Data, Design Engineering, and Machine Learning. Reach me at [abdua16@mcmaster.ca](mailto:abdua16@mcmaster.ca).
+Hi! I've previously interned as a data analyst at RBC and as a full-stack SWE at bizZone. I'm open to summer 2027 roles in software/data/design engineering and AI/ML. Reach me at [abdua16@mcmaster.ca](mailto:abdua16@mcmaster.ca) :)
 
 ![](https://komarev.com/ghpvc/?username=1lee181&style=flat-square&color=yellow&abbreviated=true)
